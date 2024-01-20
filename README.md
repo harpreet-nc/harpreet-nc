@@ -1,4 +1,4 @@
-![logo](https://github.com/harpreet-ka/harpreet-ka/blob/main/cloud%20(1).png)
+![logo]
 <h1 align="center">👋 Hello, I'm Harpreet Kaur</h1>
 <h3 align="center">DevOps Support Engineer | Nclouds</h3>
 
