@@ -1,4 +1,3 @@
-![logo]
 <h1 align="center">👋 Hello, I'm Harpreet Kaur</h1>
 <h3 align="center">DevOps Support Engineer | Nclouds</h3>
 
