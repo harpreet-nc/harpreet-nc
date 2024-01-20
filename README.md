@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Harpreet Kaur</h1>
-<h3 align="center">DevOps Support Engineer | India</h3>
+<h3 align="center">DevOps Support Engineer | Nclouds</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harpreet-nc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
